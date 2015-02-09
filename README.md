@@ -7,8 +7,11 @@ very simple ajax file upload without validation or security
 
 Instructions
 1. upload both files to your server
+
 2. Update paths for the correct locations of both the ajax url parameter and upload files directory (if you dont know where these are, they are where ever you uploaded them)
+
 3. Test code. 
+
 4. If ok, place js in correct place for your page. 
-5. modify to suit. 
-6. 
+
+5. modify to suit.
